@@ -1,0 +1,22 @@
+# Local credentials and configuration
+/管理密钥.dat
+/config.yaml
+/config.yml
+/.cli-proxy-api/
+.env
+.env.*
+*.key
+*.pem
+
+# Account data, runtime state, and local screenshots
+/面板*.json
+/PanelPreview*.png
+/修复备份-*/
+*.log
+*.tmp
+*.bak
+
+# Local verification artifacts
+/.qa/
+/account-switch-test-*/
+/quota-test-*/
